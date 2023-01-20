@@ -1,3 +1,3 @@
-# Site simples utilizando flebox
-Site desenvolvido para uma disciplina da faculdade, utilizando apenas html5 e css3
+# Site simples utilizando flexbox
 
+Site desenvolvido para uma disciplina da faculdade, utilizando apenas HTML5 e CSS3.
